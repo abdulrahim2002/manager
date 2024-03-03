@@ -2,7 +2,8 @@ import React, { useContext, useState } from "react"
 import axios from 'axios'
 
 // this is thr url of the backend server
-const BASE_URL = "http://localhost:3000/api/v1/";
+// const BASE_URL = "http://localhost:3000/api/v1/";
+// const BASE_URL = "/api/v1/";
 
 // link of my ec2 instance
 // const BASE_URL = "http://ec2-52-66-72-22.ap-south-1.compute.amazonaws.com:3000/";
